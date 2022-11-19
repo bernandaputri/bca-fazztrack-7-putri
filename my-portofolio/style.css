@@ -95,3 +95,20 @@ footer {
     align-items: center;
     justify-content: flex-start;
 }
+
+.abt-me {
+    font-size: 30px;
+    margin: 10vh;
+}
+
+.desc-abt-me {
+    justify-content: center;
+    display: flex;
+}
+
+.me {
+    width: 80%;
+    font-size: large;
+    justify-content: center;
+    display: flex;
+}
